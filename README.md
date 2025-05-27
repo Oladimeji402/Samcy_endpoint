@@ -11,8 +11,6 @@ This project provides a PHP-based backend endpoint that allows users to register
 - Stores data securely using prepared statements
 - Returns JSON responses
 
-## 📁 Project Structure
-
 
 ---
 
