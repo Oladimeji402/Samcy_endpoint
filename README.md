@@ -28,9 +28,9 @@ This project provides a PHP-based backend endpoint that allows users to register
 1. Clone or download this project into your `htdocs` folder in XAMPP:
 
    ```bash
-   git clone https://github.com/yourusername/SAMCY_BE_v1.01.git
+   git clone https://github.com/Oladimeji402/Samcy_endpoint.git
 2. Configure your database connection inside db.php:
-$conn = new mysqli("localhost", "root", "", "your_database_name");
+$conn = new mysqli("localhost", "root", "", "Samcy");
 
 3. Make sure your uploads/ folder has write permissions:
 chmod -R 777 uploads/
