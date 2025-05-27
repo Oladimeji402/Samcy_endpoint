@@ -20,7 +20,7 @@ This project provides a PHP-based backend endpoint that allows users to register
 
 - PHP >= 7.4
 - MySQL Database
-- XAMPP or similar LAMP/Local server environment
+- XAMPP
 - Postman or frontend form for testing
 
 ### 🔧 Setup
